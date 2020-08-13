@@ -5,6 +5,32 @@ READ_ONLY_PROVIDER=http://localhost:8545
 LOCKSMITH_URI=http://localhost:8080
 WEDLOCKS_URI=http://localhost:1337
 DASHBOARD_URL=http://localhost:3000
+  const rulesToIgnore = [
+  'no-unused-vars',
+  'no-restricted-globals',
+  'radix',
+  'eqeqeq',
+  'no-underscore-dangle',
+  'class-methods-use-this',
+  'no-throw-literal',
+  'no-param-reassign',
+  'consistent-return',
+  'camelcase',
+  'no-plusplus',
+  'no-dupe-keys',
+  'no-prototype-builtins',
+  'no-shadow',
+  'prefer-destructuring',
+  'no-return-assign',
+  'global-require',
+  'no-nested-ternary',
+  'no-use-before-define',
+  'array-callback-return',
+  'no-unused-expressions',
+  'default-case',
+  'no-useless-constructor',
+  'prefer-promise-reject-errors',
+  'no-restricted-syntax'
 PAYWALL_URL=http://localhost:3001
 PAYWALL_SCRIPT_URL=http://localhost:3001/static/paywall.min.js
 UNLOCK_STATIC_URL=http://localhost:3002
