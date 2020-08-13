@@ -38,21 +38,8 @@ DASHBOARD_URL=http://localhost:3000
   'no-useless-constructor',
   'prefer-promise-reject-errors',
   'no-restricted-syntax'
-PAYWALL_URL=http://localhost:3001
-PAYWALL_SCRIPT_URL=http://localhost:3001/static/paywall.min.js
-UNLOCK_STATIC_URL=http://localhost:3002
-UNLOCK_TICKETS_URL=http://0.0.0.0:3003
-ERC20_CONTRACT_SYMBOL=DAI
-ERC20_CONTRACT_ADDRESS=0xFcD4FD1B4F3d5ceDdc19004579A5d7039295DBB9
-BOOTSTRAP_AMOUNT=15.0
-HTTP_PROVIDER_HOST=127.0.0.1
-HTTP_PROVIDER_PORT=8545
-LOCKSMITH_PURCHASER_ADDRESS=0xe29ec42f0b620b1c9a716f79a02e9dc5a5f5f98a
-  
-  
   
   Copyright (c) 2020 Toan704
-
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
