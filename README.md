@@ -1,5 +1,7 @@
 # Devices Address
 ### Unlock qua sever máy chủ hoàn toàn tự động!
+- OEM
+- Open Fastboot 
 ETHEREUM_ADDRESS=<your ethereum address>
 READ_ONLY_PROVIDER=http://localhost:8545
 LOCKSMITH_URI=http://localhost:8080
