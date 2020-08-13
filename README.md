@@ -1,4 +1,4 @@
-#Devices Address
+# Devices Address
 
 ETHEREUM_ADDRESS=<your ethereum address>
 READ_ONLY_PROVIDER=http://localhost:8545
