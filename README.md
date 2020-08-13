@@ -1,4 +1,5 @@
 
+#Devices Address
 ETHEREUM_ADDRESS=<your ethereum address>
 READ_ONLY_PROVIDER=http://localhost:8545
 LOCKSMITH_URI=http://localhost:8080
